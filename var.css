@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.containar-box{
+    margin-top: 10%;
+    margin-left: 10%;
+    padding: 10px;
+}
+.containar-box h1{
+    font-size: 50px;
+    color: black;
+    padding-bottom: 10px;
+}
+.containar-box p{
+    padding-bottom: 10px;
+}
+.btn{
+    background-color: cadetblue;
+    padding: 10px;
+    color: white;
+    border: none;
+    font-size: 30px;
+     
+}
+
+.containar{
+    display: flex;
+    justify-content: space-around;
+}
